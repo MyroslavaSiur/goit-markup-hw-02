@@ -14,18 +14,6 @@ body {
     background-color: #FFFFFF;
 }
 
-h1, h2 {
-    font-weight: 700;
-}
-
-h3 {
-    font-weight: 500;
-}
-
-p {
-    font-weight: 400;
-}
-
 .logo-web {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -36,12 +24,6 @@ p {
     color: #4D5AE5; 
 }
 .logo-studio {
-    font-family: "Raleway", sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
     color: #2e2f42;
 }
 
@@ -110,11 +92,11 @@ p {
     background: var(--OCEAN, #404BBF);
 }
 
-.section {
+.section-title {
     background-color: #2e2f42;
 }
 
-.section-3 {
+.section-team {
     background-color: #F4F4FD;
 }
 
@@ -148,7 +130,7 @@ p {
     color: #434455;
 }
 
-.list-section-3 {
+.list-section-team {
     background-color: #FFFFFF;
 }
 
